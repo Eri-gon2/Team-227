@@ -4,7 +4,7 @@
 
 #### Team Name: `LEKT`    
   
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### `YOUR ONE SENTENCE HERE`
 
 
