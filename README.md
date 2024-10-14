@@ -42,5 +42,5 @@
 
 #### Team Coordinator GitHub Username: `kylama`
 
-#### Team Members: `Kyla Ma (kylama), Toby Zhang (tobyzhan), Eric Gan (eri_gon2), Lisa Nguyen (lisanguyenn)`
+#### Team Members: `Kyla Ma (kylama), Toby Zhang (tobyzhan), Eric Gan (Eri-gon2), Lisa Nguyen (lisanguyenn)`
 
